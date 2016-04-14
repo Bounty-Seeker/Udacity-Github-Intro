@@ -1,0 +1,7 @@
+Access to the entire hostory of a file would allow me to attempt to tasks by deleting and altering the code without having to remember all places altered. Hence giving a more robust method of experimentation.
+The advantage of having control over when it commits is that they can be logically created in sensible points. The disadvantage however is that the user needs to remember to commit.
+Git version control is designed for coding, hence will be designed to support structures of object oreintated programs.
+git log lets you view all commits
+git diff shows differences between commits
+Being able to track changes means I can safely experiment.
+I want to use git to allow me to work on different systems with the same code and experiment safely.

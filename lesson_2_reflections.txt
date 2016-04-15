@@ -1,2 +1,7 @@
 git init creates revelant files to start tracking the repository.
 The staging area gives me much greater control over which parts of my working directory is commited.
+Using git diff, git diff --staged and the staging area alow me to track what is to be updated then update.
+Branches allow code to be altered and adapted in different logical directions without interfering with each other.
+Visual representations of the branches allows me to easily see the progress and difeerences between branches.
+Merging two branches takes the two branches and makes a new commit where changed due to each branch or combined. This is simply represented by two branches becoming one.
+Git automatically merges files when their are zero outstanding conflicts. This means it makes less errors which corrupt files.
